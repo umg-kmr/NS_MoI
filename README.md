@@ -28,10 +28,11 @@ You can now either write your own code to visualise the data or use the provided
 
 If you have a working anaconda install, you can create a new environment and use the code inside that.
 
-Create a new python 3 environment with:
+Create a new python 3 environment and activate it with:
 
 ```
-conda create -n NS_MoI python=3.11 
+conda create -n NS_MoI python=3.11
+conda activate NS_MoI
 ```
 Install the required packages:
 
@@ -47,7 +48,6 @@ conda install -c anaconda jupyter
 Run the code with the following commands:
 ```
 git clone https://github.com/umg-kmr/NS_MoI.git
-conda activate NS_MoI
 cd NS_MoI/code/
 python MI_Main.py
 ```
