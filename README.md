@@ -26,7 +26,7 @@ You can now either write your own code to visualise the data or use the provided
 
 ## Expample with Anaconda
 
-If you a working anaconda install, you can create a new environment and use the code inside that.
+If you have a working anaconda install, you can create a new environment and use the code inside that.
 
 Create a new python 3 environment with:
 
