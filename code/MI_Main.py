@@ -3,6 +3,7 @@ import numpy as np
 import params as pp
 import MI_Driver as X
 import multiprocessing
+from multiprocessing import freeze_support
 import os
 
 def main():
@@ -59,4 +60,5 @@ def main():
    print(t,'Hours')
    return 0
 if __name__ == "__main__":
-    main()
+   freeze_support()
+   main()
