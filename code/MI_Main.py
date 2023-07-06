@@ -57,6 +57,6 @@ def main():
    t = (t2-t1)/3600
    
    print(t,'Hours')
-
+   return 0
 if __name__ == "__main__":
     main()
