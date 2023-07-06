@@ -24,7 +24,7 @@ The code will output a 'EOS_Name.dat' file in the output directory and the execu
 
 You can now either write your own code to visualise the data or use the provided jupyter notebooks in the 'notebooks' directory.
 
-## Expample with Anaconda
+## Example with Anaconda
 
 If you have a working anaconda install, you can create a new environment and use the code inside that.
 
