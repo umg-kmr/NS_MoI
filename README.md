@@ -23,3 +23,9 @@ The code will output a 'EOS_Name.dat' file in the output directory and the execu
 > Mass ($M_\odot$), Radius(Km), $\Lambda$, Moment of Inertia ($kg \ m^2$)
 
 You can now either write your own code to visualise the data or use the provided jupyter notebooks in the 'notebooks' directory.
+
+#Acknowledgments
+
+
+#Contact
+For any inquiries or questions, please contact umang.kumar_phd21@ashoka.edu.in
