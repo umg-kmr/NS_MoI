@@ -46,8 +46,9 @@ conda install -c anaconda jupyter
 
 Run the code with the following commands:
 ```
+git clone https://github.com/umg-kmr/NS_MoI.git
 conda activate NS_MoI
-cd your-path/NS_MoI/code/
+cd NS_MoI/code/
 python MI_Main.py
 ```
 
