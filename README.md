@@ -24,6 +24,26 @@ The code will output a 'EOS_Name.dat' file in the output directory and the execu
 
 You can now either write your own code to visualise the data or use the provided jupyter notebooks in the 'notebooks' directory.
 
+## Expample with Anaconda
+
+If you a working anaconda install, you can create a new environment and use the code inside that.
+
+Create a new python 3 environment with:
+
+```
+conda create -n NS_MoI python=3.11 
+```
+Install the required packages:
+
+```
+conda install -c conda-forge numpy scipy pandas matplotlib
+```
+
+Optionally install jupyter notebook:
+```
+conda install -c anaconda jupyter
+``` 
+
 ## Acknowledgments
 We would like to acknowledge the Ashoka High Performance Computing Cluster (The Chanakya@Ashoka) for providing computational resources and support. The program was tested and all calculations were computed on the Chanakya@Ashoka.
 
