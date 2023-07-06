@@ -20,4 +20,4 @@ python MI_Main.py
 
 The code will output a 'EOS_Name.dat' file in the output directory and the execution time on the screen. The output file structure is as follows:
 
-> Mass ($M_\odot$), Radius(Km), $\Lambda$, Moment of Inertia ($kg m^2$)
+> Mass ($M_\odot$), \ Radius(Km), \ $\Lambda$, \ Moment of Inertia ($kg \ m^2$)
