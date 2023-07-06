@@ -42,7 +42,14 @@ conda install -c conda-forge numpy scipy pandas matplotlib
 Optionally install jupyter notebook:
 ```
 conda install -c anaconda jupyter
-``` 
+```
+
+Run the code with the following commands:
+```
+conda activate NS_MoI
+cd your-path/NS_MoI/code/
+python MI_Main.py
+```
 
 ## Acknowledgments
 We would like to acknowledge the Ashoka High Performance Computing Cluster (The Chanakya@Ashoka) for providing computational resources and support. The program was tested and all calculations were computed on the Chanakya@Ashoka.
