@@ -10,7 +10,7 @@ There is no need for installation but the code requires a working python 3 insta
 3. Pandas
 4. Matplotlib (only for the plots)
 
-After cloning the repository, go to the params.py file and change the paramters according to your use case and specify the equation of state. Sample code for 'ALF2' is provided.
+After cloning the repository, go to the params.py file and change the parameters according to your use case and specify the equation of state. Sample code for 'ALF2' is provided.
 
 Run the code using the following command:
 
